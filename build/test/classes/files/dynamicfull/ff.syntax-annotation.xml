@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<nite:stream nite:id="ff.syntax-annotation" xmlns:nite="http://nite.sourceforge.net/">
+   <sanno nite:id="ff.syntax-annotation.1" status="0" date="11/12/08 13:14" annotator="Hugolin" level="ff">
+      <nite:child href="ff.syntax.xml#id(ff.syntax.7)"/>
+   </sanno>
+   <sanno nite:id="ff.syntax-annotation.2" status="0" date="11/12/08 13:14" annotator="Hugolin" level="ff">
+      <nite:child href="ff.syntax.xml#id(ff.syntax.2)"/>
+   </sanno>
+   <sanno nite:id="ff.syntax-annotation.3" status="0" date="11/12/08 13:14" annotator="Hugolin" level="ff">
+      <nite:child href="ff.syntax.xml#id(ff.syntax.6)"/>
+   </sanno>
+   <sanno nite:id="ff.syntax-annotation.4" status="0" date="11/12/08 13:14" annotator="Hugolin" level="ff">
+      <nite:child href="ff.syntax.xml#id(ff.syntax.13)"/>
+   </sanno>
+   <sanno nite:id="ff.syntax-annotation.5" status="0" date="11/12/08 13:14" annotator="Hugolin" level="ff">
+      <nite:child href="ff.syntax.xml#id(ff.syntax.12)"/>
+   </sanno>
+   <sanno nite:id="ff.syntax-annotation.6" status="0" date="2012/08/18 13:14" annotator="Hugolin" level="ff">
+      <nite:child href="ff.syntax.xml#id(ff.syntax.12)"/>
+   </sanno>
+   <sanno nite:id="ff.syntax-annotation.7" status="0" date="2012/08/18 13:14" annotator="Hugolin" level="ff">
+      <nite:child href="ff.syntax.xml#id(ff.syntax.13)"/>
+   </sanno>
+   <sanno nite:id="ff.syntax-annotation.8" status="0" date="2012/08/18 13:14" annotator="Hugolin" level="ff">
+      <nite:child href="ff.syntax.xml#id(ff.syntax.2)"/>
+   </sanno>
+   <sanno nite:id="ff.syntax-annotation.9" status="0" date="2012/08/18 13:14" annotator="Hugolin" level="ff">
+      <nite:child href="ff.syntax.xml#id(ff.syntax.6)"/>
+   </sanno>
+   <sanno nite:id="ff.syntax-annotation.10" status="0" date="2012/08/18 13:14" annotator="Hugolin" level="ff">
+      <nite:child href="ff.syntax.xml#id(ff.syntax.7)"/>
+   </sanno>
+   <sanno nite:id="ff.syntax-annotation.11" status="0" date="2012/08/18 13:14" annotator="Hugolin" level="ff">
+      <nite:child href="ff.syntax.xml#id(ff.syntax.12)"/>
+   </sanno>
+   <sanno nite:id="ff.syntax-annotation.12" status="0" date="2012/08/18 13:14" annotator="Hugolin" level="ff">
+      <nite:child href="ff.syntax.xml#id(ff.syntax.13)"/>
+   </sanno>
+   <sanno nite:id="ff.syntax-annotation.13" status="0" date="2012/08/18 13:14" annotator="Hugolin" level="ff">
+      <nite:child href="ff.syntax.xml#id(ff.syntax.2)"/>
+   </sanno>
+   <sanno nite:id="ff.syntax-annotation.14" status="0" date="2012/08/18 13:14" annotator="Hugolin" level="ff">
+      <nite:child href="ff.syntax.xml#id(ff.syntax.6)"/>
+   </sanno>
+   <sanno nite:id="ff.syntax-annotation.15" status="0" date="2012/08/18 13:14" annotator="Hugolin" level="ff">
+      <nite:child href="ff.syntax.xml#id(ff.syntax.7)"/>
+   </sanno>
+   <sanno nite:id="ff.syntax-annotation.16" status="0" date="2012/08/18 13:14" annotator="Hugolin" level="ff">
+   </sanno>
+   <sanno nite:id="ff.syntax-annotation.17" status="0" date="2012/08/18 13:14" annotator="Hugolin" level="ff">
+      <nite:child href="ff.syntax.xml#id(ff.syntax.12)"/>
+   </sanno>
+   <sanno nite:id="ff.syntax-annotation.18" status="0" date="2012/08/18 13:14" annotator="Hugolin" level="ff">
+      <nite:child href="ff.syntax.xml#id(ff.syntax.13)"/>
+   </sanno>
+   <sanno nite:id="ff.syntax-annotation.19" status="0" date="2012/08/18 13:14" annotator="Hugolin" level="ff">
+      <nite:child href="ff.syntax.xml#id(ff.syntax.2)"/>
+   </sanno>
+   <sanno nite:id="ff.syntax-annotation.20" status="0" date="2012/08/18 13:14" annotator="Hugolin" level="ff">
+      <nite:child href="ff.syntax.xml#id(ff.syntax.6)"/>
+   </sanno>
+   <sanno nite:id="ff.syntax-annotation.21" status="0" date="2012/08/18 13:14" annotator="Hugolin" level="ff">
+      <nite:child href="ff.syntax.xml#id(ff.syntax.7)"/>
+   </sanno>
+   <sanno nite:id="ff.syntax-annotation.22" status="0" date="2012/08/18 13:14" annotator="Hugolin" level="ff">
+   </sanno>
+</nite:stream>
